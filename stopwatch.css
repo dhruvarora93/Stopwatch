@@ -1,0 +1,14 @@
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    border-radius: 10px;
+    background-color: rgba(236, 236, 236, 1);
+}
+
+.styled:hover {
+    background-color: rgba(90, 211, 255);
+}
